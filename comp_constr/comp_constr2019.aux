@@ -1,0 +1,139 @@
+\relax 
+\citation{katzschmann2013towards}
+\citation{ngo2005passivity}
+\citation{ngo2006bounded}
+\citation{chen1994torque}
+\citation{ma2002time}
+\citation{park1998enhanced}
+\@writefile{toc}{\contentsline {section}{\numberline {I}Introduction}{1}}
+\newlabel{sec:intro constrcomp}{{I}{1}}
+\newlabel{eq:vel_kin_opt}{{1}{1}}
+\newlabel{eq:X_ddot}{{2}{1}}
+\citation{park1998enhanced}
+\citation{yoshikawa1985manipulability}
+\citation{decre2009extending}
+\citation{rubrecht2010constraints}
+\citation{lange2014predictive}
+\citation{lange2015trajectory}
+\@writefile{toc}{\contentsline {section}{\numberline {II}The QP form and Constraints incompatibility cases}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {II-A}Task formulation}{2}}
+\newlabel{Xddot}{{3}{2}}
+\newlabel{accelerationError}{{4}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {II-B}Controller formulation}{2}}
+\newlabel{eq:ctrl_pb}{{5}{2}}
+\newlabel{eq:dyn_eq}{{6}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {II-C}Articular constraints: classic formulation}{2}}
+\citation{rubrecht2010constraints}
+\citation{decre2009extending}
+\newlabel{eq:const_1_literature}{{7}{3}}
+\newlabel{eq:Constr_1_time_step}{{8}{3}}
+\newlabel{eq:cmd_input_dyn}{{9}{3}}
+\newlabel{eq:Constr_time_step}{{10}{3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {II-C.1}Incompatibility cases related to joint rate limits}{3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {II-C.2}Incompatibility cases related to joint position limits}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {III}Articular constraints: new formulation}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {III-A}Joint velocity constraint incompatibility with jerk limits}{3}}
+\newlabel{eq:discretized_dynamics_vel}{{11}{3}}
+\newlabel{eq:q_dot_evolution_with_const_qdddot_m}{{12}{3}}
+\newlabel{eq:q_ddot_vel_jerk_comp_aa_n1}{{13}{3}}
+\newlabel{eq:n_1_eq_aa}{{14}{3}}
+\newlabel{eq:q_ddot_vel_jerk_comp_aa_n2}{{15}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Constraints incompatibility one time step before $q_m$. No control acceleration $\mathaccentV {ddot}07F{q}_{|k}$ can be generated to make $\mathaccentV {dot}05F{q}_{|k+1} = 0$ by the next time step where $q_{|k+1}$ should be equal to $q_m$.}}{4}}
+\newlabel{fig:Constraints_incompatibility4}{{1}{4}}
+\newlabel{eq:n_2_eq_aa}{{16}{4}}
+\newlabel{eq:qddot_cond_to_satisfy_Jerk_Vel_compatibility_profile}{{17}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {III-B}Joint position constraint incompatibility with deceleration and/or jerk limits}{4}}
+\newlabel{eq:qddot_cond_to_satisfy_Acc_posi_compatibility}{{18}{4}}
+\newlabel{eq:qddot_cond_to_satisfy_Jerk_posi_compatibility}{{19}{4}}
+\newlabel{eq:qddot_cond_to_satisfy_Acc_Jerk_posi_compatibility}{{20}{4}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {III-B.1}Joint position constraint incompatibility with deceleration limits}{4}}
+\newlabel{eq:discretized_dynamics_posi_decel}{{21}{4}}
+\newlabel{eq:q_evolution_with_const_qddot_m}{{22}{4}}
+\newlabel{eq:q_dot_posi_acc_comp}{{23}{4}}
+\newlabel{eq:q_ddot_posi_acc_comp_upp}{{24}{4}}
+\newlabel{eq:n_3_Acc_posi_comp}{{25}{4}}
+\newlabel{eq:q_ddot_posi_acc_comp_low}{{26}{5}}
+\newlabel{eq:n_4_Acc_posi_comp}{{27}{5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {III-B.2}Joint position constraint incompatibility with jerk limits}{5}}
+\newlabel{eq:discretized_dynamics_posi_jerk_braking}{{28}{5}}
+\newlabel{eq:q_evolution_with_const_qdddot_m}{{29}{5}}
+\newlabel{eq:q_ddot_posi_jerk_comp_upp}{{30}{5}}
+\newlabel{eq:n_5_eq_new}{{31}{5}}
+\newlabel{eq:q_ddot_posi_jerk_comp_low}{{32}{5}}
+\newlabel{eq:n_6_eq_new}{{33}{5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {III-B.3}Joint position constraint with both deceleration and jerk limits}{5}}
+\newlabel{eq:q_evolution_with_const_qddot_m_and_qdddot_m_final}{{34}{5}}
+\newlabel{eq:q_evolution_with_const_qddot_m_and_qdddot_m_2_final}{{35}{5}}
+\newlabel{eq:Constr_comp_posi_acc_jerk_1_final}{{36}{5}}
+\newlabel{eq:Constr_comp_posi_acc_jerk_1_kinema_final}{{37}{5}}
+\citation{rtt-url}
+\citation{merlhiot2012}
+\citation{gurobi}
+\newlabel{eq:Constr_comp_posi_acc_jerk_2_final}{{38}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {III-C}Final bounds on the acceleration control variable}{6}}
+\newlabel{eq:qddot_FINAL_CONSTR_1_final}{{39}{6}}
+\newlabel{eq:qddot_FINAL_CONSTR_2_final}{{40}{6}}
+\@writefile{toc}{\contentsline {section}{\numberline {IV}Experimental results}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {IV-A}Test case scenario}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Vel constr classic}}{6}}
+\newlabel{fig:0_Vel_constr_classic}{{2}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Vel constr jerk comp}}{6}}
+\newlabel{fig:1_Vel_constr_jerk_comp}{{3}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Posi constr acc comp 100}}{7}}
+\newlabel{fig:4_Posi_constr_acc_comp_100}{{4}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Posi constr acc comp 3}}{7}}
+\newlabel{fig:5_Posi_constr_acc_comp_3}{{5}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Posi constr jerk comp 25 non complete formula backklash}}{7}}
+\newlabel{fig:6_Posi_constr_jerk_comp_25_non_complete_formula_backklash}{{6}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Posi constr jerk comp 2500 non complete formula backklash}}{7}}
+\newlabel{fig:7_Posi_constr_jerk_comp_2500_non_complete_formula_backklash}{{7}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Posi constr jerk comp 25 complete formula no backklash}}{7}}
+\newlabel{fig:8_Posi_constr_jerk_comp_25_complete_formula_no_backklash}{{8}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Posi constr jerk acc comp non complete formula 3}}{7}}
+\newlabel{fig:9_Posi_constr_jerk_acc_comp_non_complete_formula_3}{{9}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Posi constr jerk acc comp complete formula 100}}{8}}
+\newlabel{fig:10_Posi_constr_jerk_acc_comp_complete_formula_100}{{10}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Posi constr jerk acc comp complete formula 3}}{8}}
+\newlabel{fig:11_Posi_constr_jerk_acc_comp_complete_formula_3}{{11}{8}}
+\@writefile{toc}{\contentsline {section}{\numberline {V}Appendix - Proof for the mathematical reformulation of the articular position and velocity constraints}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {V-A}Computation of deceleration capabilities ($\boldsymbol  {\mathaccentV {ddot}07F{q}}_m$ and $\boldsymbol  {\mathaccentV {ddot}07F{q}}_M$)}{8}}
+\newlabel{eq:qddot_minimizing_opt_1}{{41}{8}}
+\newlabel{eq:qddot_maximizing_opt_2}{{42}{8}}
+\newlabel{eq:qddot_minimizing}{{43}{8}}
+\newlabel{eq:qddot_maximizing}{{44}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces Kuka LWR4 serial robot within the XDE simulator. In red dots, the trajectory of the end-effector.}}{8}}
+\newlabel{fig:kuka_in_xde_VOID}{{12}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {V-B}Dynamic and kinematic control input parameters relationship}{8}}
+\newlabel{eq:cmd_input_kin}{{45}{8}}
+\newlabel{eq:cmd_input_dyn2}{{46}{8}}
+\newlabel{eq:kin_dyn_ctrl_inp_rela}{{47}{8}}
+\newlabel{eq:discretized_dynamics}{{48}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {V-C}Joint jerk and velocity limits}{8}}
+\newlabel{eq:q_ddot_vel_jerk_comp}{{49}{8}}
+\bibstyle{IEEEtran}
+\bibdata{IEEEabrv,IROS_PAPER_Vincent_V2}
+\bibcite{katzschmann2013towards}{1}
+\bibcite{ngo2005passivity}{2}
+\bibcite{ngo2006bounded}{3}
+\bibcite{chen1994torque}{4}
+\bibcite{ma2002time}{5}
+\bibcite{park1998enhanced}{6}
+\bibcite{yoshikawa1985manipulability}{7}
+\bibcite{decre2009extending}{8}
+\bibcite{rubrecht2010constraints}{9}
+\bibcite{lange2014predictive}{10}
+\newlabel{eq:n_1_eq}{{50}{9}}
+\newlabel{eq:n_3_eq}{{51}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {V-D}Joint jerk and position limits}{9}}
+\newlabel{eq:q_ddot_posi_jerk_comp}{{52}{9}}
+\newlabel{eq:n_5_eq}{{53}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {V-E}Joint jerk, acceleration and position limits}{9}}
+\newlabel{eq:q_evolution_with_const_qddot_m_and_qdddot_m_1}{{54}{9}}
+\newlabel{eq:q_evolution_with_const_qddot_m_and_qdddot_m_2}{{55}{9}}
+\newlabel{eq:Constr_comp_posi_acc_jerk_1_appendix}{{56}{9}}
+\newlabel{eq:Constr_comp_posi_acc_jerk_1_kinema_appendix}{{57}{9}}
+\@writefile{toc}{\contentsline {section}{References}{9}}
+\bibcite{lange2015trajectory}{11}
+\bibcite{rtt-url}{12}
+\bibcite{merlhiot2012}{13}
+\bibcite{gurobi}{14}

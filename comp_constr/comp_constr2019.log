@@ -1,0 +1,1082 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2015.2.25)  20 OCT 2017 17:53
+entering extended mode
+ %&-line parsing enabled.
+**comp_constr2019.tex
+(./comp_constr2019.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+(./ieeeconf.cls
+Document Class: ieeeconf 2004/1/15 revision V1.6b by Pradeep Misra
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 794.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\@IEEEnormalsizefontbaselineskip=\skip41
+
+-- This is a 10 point document.
+\normalsizebaselineskip=\skip42
+\normaljot=\skip43
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+\IEEEilabelindentA=\dimen104
+\IEEEilabelindentB=\dimen105
+\IEEEilabelindent=\dimen106
+\IEEEelabelindent=\dimen107
+\IEEEdlabelindent=\dimen108
+\labelindent=\dimen109
+\IEEEiednormlabelsep=\dimen110
+\IEEEiedmathlabelsep=\dimen111
+\IEEEiedtopsep=\skip44
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen112
+\c@biography=\count90
+\@IEEEtranrubishbin=\box26
+)
+** ATTENTION: Overriding command lockouts (line 8).
+** ATTENTION: Overriding IEEE standard margins (line 11).
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen113
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen114
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen115
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks16
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks17
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks18
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count103
+))
+\Gin@req@height=\dimen122
+\Gin@req@width=\dimen123
+)
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks21
+)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box29
+
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen124
+\pgf@y=\dimen125
+\pgf@xa=\dimen126
+\pgf@ya=\dimen127
+\pgf@xb=\dimen128
+\pgf@yb=\dimen129
+\pgf@xc=\dimen130
+\pgf@yc=\dimen131
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count104
+\c@pgf@countb=\count105
+\c@pgf@countc=\count106
+\c@pgf@countd=\count107
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count108
+\pgfsyssoftpath@bigbuffer@items=\count109
+)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen132
+\pgfmath@count=\count110
+\pgfmath@box=\box30
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count111
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen133
+\pgf@picmaxx=\dimen134
+\pgf@picminy=\dimen135
+\pgf@picmaxy=\dimen136
+\pgf@pathminx=\dimen137
+\pgf@pathmaxx=\dimen138
+\pgf@pathminy=\dimen139
+\pgf@pathmaxy=\dimen140
+\pgf@xx=\dimen141
+\pgf@xy=\dimen142
+\pgf@yx=\dimen143
+\pgf@yy=\dimen144
+\pgf@zx=\dimen145
+\pgf@zy=\dimen146
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen147
+\pgf@path@lasty=\dimen148
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen149
+\pgf@shorten@start@additional=\dimen150
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box31
+\pgf@hbox=\box32
+\pgf@layerbox@main=\box33
+\pgf@picture@serial@count=\count112
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen151
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen152
+\pgf@pt@y=\dimen153
+\pgf@pt@temp=\dimen154
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen155
+\pgf@sys@shading@range@num=\count113
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box34
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box35
+)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen156
+\pgf@nodesepend=\dimen157
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen158
+\pgffor@skip=\dimen159
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count114
+\pgfplotmarksize=\dimen160
+)
+\tikz@lastx=\dimen161
+\tikz@lasty=\dimen162
+\tikz@lastxsaved=\dimen163
+\tikz@lastysaved=\dimen164
+\tikzleveldistance=\dimen165
+\tikzsiblingdistance=\dimen166
+\tikz@figbox=\box36
+\tikz@tempbox=\box37
+\tikztreelevel=\count115
+\tikznumberofchildren=\count116
+\tikznumberofcurrentchild=\count117
+\tikz@fig@count=\count118
+
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count119
+\pgfmatrixcurrentcolumn=\count120
+\pgf@matrix@numberofcolumns=\count121
+)
+\tikz@expandcount=\count122
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/scrextend.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2009/07/24 v3.04a KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
+
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2009/07/24 v3.04a KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2009/03/25 v3.03 KOMA-Script package (loading files)
+
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+)))) (./comp_constr2019.aux)
+\openout1 = `comp_constr2019.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count123
+\scratchdimen=\dimen167
+\scratchbox=\box38
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen168
+\MPnumerator=\count127
+\everyMPtoPDFconversion=\toks31
+) ABD: EveryShipout initializing macros
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 54.
+LaTeX Font Info:    Try loading font information for U+msa on input line 54.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 54.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 54.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Try loading font information for OMS+pcr on input line 54.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/omspcr.fd
+File: omspcr.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 91.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.91 }
+      
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.91 }
+      
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex8!
+
+LaTeX Warning: Command \~ invalid in math mode on input line 91.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.91 }
+      
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.91 }
+      
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no è in font cmex8!
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--94
+\OT1/ptm/m/n/10 Within the new for-mu-la-tions, ar-tic-u-lar ac-cel-er-a-
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 87--94
+\OT1/ptm/m/n/10 tion/deceleration and jerk ca-pa-bil-i-ties are in-te-grated to
+
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+
+ []
+
+[2]
+! Extra }, or forgotten $.
+l.173 ...ct{\dddot{q}}_{m}, \vect{\dddot{q}}_{M}]}
+                                                  $ are the joint velocity, ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 194.
+
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 207.
+
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 230.
+
+
+
+pdfTeX warning: pdflatex (file ./figures/Constraints_incompatibility4.pdf): PDF
+ inclusion: found PDF version <1.5>, but at most version <1.4> allowed
+<figures/Constraints_incompatibility4.pdf, id=36, 513.19855pt x 123.0531pt>
+File: figures/Constraints_incompatibility4.pdf Graphic file (type pdf)
+
+<use figures/Constraints_incompatibility4.pdf> [3]
+! Missing } inserted.
+<inserted text> 
+                }
+l.319 ...that will be used for $n_{3_{\mathbb{N}}$
+                                                   time-steps during the bra...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.326 ...that will be used for $n_{5_{\mathbb{N}}$
+                                                   time-steps during the bra...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--342
+
+ []
+
+[4 <./figures/Constraints_incompatibility4.pdf>]
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 495.
+
+! Double subscript.
+<argument> ...}{3})}{(n_6-1)}\vect {\dddot {q}}_M_
+                                                  {|k} \delta t \label {eq:q...
+l.507 \end{split}
+                 
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+<argument> ...}{3})}{(n_6-1)}\vect {\dddot {q}}_M_
+                                                  {|k} \delta t \label {eq:q...
+l.507 \end{split}
+                 
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Overfull \hbox (2.6141pt too wide) in paragraph at lines 508--508
+[] 
+ []
+
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 517.
+
+Runaway argument?
+ \vect {q}_{|k+n_7+n_9} = \vect {q}_{|k} & + (n_7+n_9) \vect {\dot {q\ETC.
+! Paragraph ended before \split was complete.
+<to be read again> 
+                   \par 
+l.602 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.602 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.602 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.602 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Display math should end with $$.
+<to be read again> 
+                   \par 
+l.602 
+      
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+! Misplaced \crcr.
+\endsplit ->\crcr 
+                  \egroup \egroup \iftagsleft@ \@xp \lendsplit@ \else \@xp \...
+l.604 \end{split}
+                 
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Extra }, or forgotten \endgroup.
+\endsplit ->\crcr \egroup 
+                          \egroup \iftagsleft@ \@xp \lendsplit@ \else \@xp \...
+l.604 \end{split}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten \endgroup.
+\endsplit ->\crcr \egroup \egroup 
+                                  \iftagsleft@ \@xp \lendsplit@ \else \@xp \...
+l.604 \end{split}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \begin{equation} on input line 596 ended by \end{split}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.604 \end{split}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.604 \end{split}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `\eqno' in math mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.605 \end{equation}
+                    
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: \begin{document} ended by \end{equation}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.605 \end{equation}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.605 \end{equation}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.605 \end{equation}
+                    
+Things are pretty mixed up, but I think the worst is over.
+
+[5]
+Overfull \hbox (20.065pt too wide) detected at line 641
+[][] \OMS/cmsy/m/n/10 ^^T \OML/cmm/m/it/10 min\OT1/cmr/m/n/10 (\OML/cmm/m/it/10
+ f[]\OT1/cmr/m/n/10 ([][]\OML/cmm/m/it/10 ; [][]\OT1/cmr/m/n/10 )\OML/cmm/m/it/
+10 ; f[]\OT1/cmr/m/n/10 ([][]\OML/cmm/m/it/10 ; [][]; [][]\OT1/cmr/m/n/10 )\OML
+/cmm/m/it/10 ; [][]; [][]^^Nt \OT1/cmr/m/n/10 + [][]\OML/cmm/m/it/10 ; [][]\OT1
+/cmr/m/n/10 )
+ []
+
+
+Overfull \hbox (19.0581pt too wide) detected at line 645
+[][] \OMS/cmsy/m/n/10 ^^U \OML/cmm/m/it/10 max\OT1/cmr/m/n/10 (\OML/cmm/m/it/10
+ f[]\OT1/cmr/m/n/10 ([][]\OML/cmm/m/it/10 ; [][]\OT1/cmr/m/n/10 )\OML/cmm/m/it/
+10 ; f[]\OT1/cmr/m/n/10 ([][]\OML/cmm/m/it/10 ; [][]; [][]\OT1/cmr/m/n/10 )\OML
+/cmm/m/it/10 ; [][]; [][]^^Nt \OT1/cmr/m/n/10 + [][]\OML/cmm/m/it/10 ; [][]\OT1
+/cmr/m/n/10 )
+ []
+
+
+
+pdfTeX warning: pdflatex (file ./figures/0_Vel_constr_classic.pdf): PDF inclusi
+on: found PDF version <1.5>, but at most version <1.4> allowed
+<figures/0_Vel_constr_classic.pdf, id=57, 506.37306pt x 393.27803pt>
+File: figures/0_Vel_constr_classic.pdf Graphic file (type pdf)
+
+<use figures/0_Vel_constr_classic.pdf>
+
+pdfTeX warning: pdflatex (file ./figures/1_Vel_constr_jerk_comp.pdf): PDF inclu
+sion: found PDF version <1.5>, but at most version <1.4> allowed
+<figures/1_Vel_constr_jerk_comp.pdf, id=59, 504.76706pt x 393.27803pt>
+File: figures/1_Vel_constr_jerk_comp.pdf Graphic file (type pdf)
+
+<use figures/1_Vel_constr_jerk_comp.pdf>
+
+pdfTeX warning: pdflatex (file ./figures/4_Posi_constr_acc_comp_100.pdf): PDF i
+nclusion: found PDF version <1.5>, but at most version <1.4> allowed
+<figures/4_Posi_constr_acc_comp_100.pdf, id=61, 512.69217pt x 392.19754pt>
+File: figures/4_Posi_constr_acc_comp_100.pdf Graphic file (type pdf)
+
+<use figures/4_Posi_constr_acc_comp_100.pdf>
+
+pdfTeX warning: pdflatex (file ./figures/5_Posi_constr_acc_comp_3.pdf): PDF inc
+lusion: found PDF version <1.5>, but at most version <1.4> allowed
+<figures/5_Posi_constr_acc_comp_3.pdf, id=63, 508.29666pt x 388.17648pt>
+File: figures/5_Posi_constr_acc_comp_3.pdf Graphic file (type pdf)
+
+<use figures/5_Posi_constr_acc_comp_3.pdf>
+
+pdfTeX warning: pdflatex (file ./figures/6_Posi_constr_jerk_comp_25_non_complet
+e_formula_backklash.pdf): PDF inclusion: found PDF version <1.5>, but at most v
+ersion <1.4> allowed
+
+<figures/6_Posi_constr_jerk_comp_25_non_complete_formula_backklash.pdf, id=65, 
+504.04688pt x 388.17648pt>
+File: figures/6_Posi_constr_jerk_comp_25_non_complete_formula_backklash.pdf Gra
+phic file (type pdf)
+
+<use figures/6_Posi_constr_jerk_comp_25_non_complete_formula_backklash.pdf>
+
+pdfTeX warning: pdflatex (file ./figures/7_Posi_constr_jerk_comp_2500_non_compl
+ete_formula_backklash.pdf): PDF inclusion: found PDF version <1.5>, but at most
+ version <1.4> allowed
+
+<figures/7_Posi_constr_jerk_comp_2500_non_complete_formula_backklash.pdf, id=67
+, 520.138pt x 388.17648pt>
+File: figures/7_Posi_constr_jerk_comp_2500_non_complete_formula_backklash.pdf G
+raphic file (type pdf)
+
+<use figures/7_Posi_constr_jerk_comp_2500_non_complete_formula_backklash.pdf>
+
+pdfTeX warning: pdflatex (file ./figures/8_Posi_constr_jerk_comp_25_complete_fo
+rmula_no_backklash.pdf): PDF inclusion: found PDF version <1.5>, but at most ve
+rsion <1.4> allowed
+
+<figures/8_Posi_constr_jerk_comp_25_complete_formula_no_backklash.pdf, id=69, 5
+04.79968pt x 388.17648pt>
+File: figures/8_Posi_constr_jerk_comp_25_complete_formula_no_backklash.pdf Grap
+hic file (type pdf)
+
+<use figures/8_Posi_constr_jerk_comp_25_complete_formula_no_backklash.pdf>
+
+pdfTeX warning: pdflatex (file ./figures/9_Posi_constr_jerk_acc_comp_non_comple
+te_formula_3.pdf): PDF inclusion: found PDF version <1.5>, but at most version 
+<1.4> allowed
+
+<figures/9_Posi_constr_jerk_acc_comp_non_complete_formula_3.pdf, id=71, 504.682
+2pt x 388.00145pt>
+File: figures/9_Posi_constr_jerk_acc_comp_non_complete_formula_3.pdf Graphic fi
+le (type pdf)
+
+<use figures/9_Posi_constr_jerk_acc_comp_non_complete_formula_3.pdf>
+
+pdfTeX warning: pdflatex (file ./figures/10_Posi_constr_jerk_acc_comp_complete_
+formula_100.pdf): PDF inclusion: found PDF version <1.5>, but at most version <
+1.4> allowed
+
+<figures/10_Posi_constr_jerk_acc_comp_complete_formula_100.pdf, id=73, 506.5744
+8pt x 388.17648pt>
+File: figures/10_Posi_constr_jerk_acc_comp_complete_formula_100.pdf Graphic fil
+e (type pdf)
+
+<use figures/10_Posi_constr_jerk_acc_comp_complete_formula_100.pdf>
+
+pdfTeX warning: pdflatex (file ./figures/11_Posi_constr_jerk_acc_comp_complete_
+formula_3.pdf): PDF inclusion: found PDF version <1.5>, but at most version <1.
+4> allowed
+
+<figures/11_Posi_constr_jerk_acc_comp_complete_formula_3.pdf, id=75, 504.16104p
+t x 389.50584pt>
+File: figures/11_Posi_constr_jerk_acc_comp_complete_formula_3.pdf Graphic file 
+(type pdf)
+
+<use figures/11_Posi_constr_jerk_acc_comp_complete_formula_3.pdf> [6 <./figures
+/0_Vel_constr_classic.pdf> <./figures/1_Vel_constr_jerk_comp.pdf>] [7 <./figure
+s/4_Posi_constr_acc_comp_100.pdf> <./figures/5_Posi_constr_acc_comp_3.pdf> <./f
+igures/6_Posi_constr_jerk_comp_25_non_complete_formula_backklash.pdf> <./figure
+s/7_Posi_constr_jerk_comp_2500_non_complete_formula_backklash.pdf> <./figures/8
+_Posi_constr_jerk_comp_25_complete_formula_no_backklash.pdf> <./figures/9_Posi_
+constr_jerk_acc_comp_non_complete_formula_3.pdf>]
+
+pdfTeX warning: pdflatex (file ./figures/kuka_in_xde_VOID.pdf): PDF inclusion: 
+found PDF version <1.5>, but at most version <1.4> allowed
+<figures/kuka_in_xde_VOID.pdf, id=1790, 738.57903pt x 495.33011pt>
+File: figures/kuka_in_xde_VOID.pdf Graphic file (type pdf)
+
+<use figures/kuka_in_xde_VOID.pdf>
+! Undefined control sequence.
+<argument>  \argmax 
+                    \limits _{\boldsymbol {\tau }} \boldsymbol {M}(\vect {q}...
+l.858 \end{gather}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Limit controls must follow a math operator.
+<recently read> \limits 
+                        
+l.858 \end{gather}
+                  
+I'm ignoring this misplaced \limits or \nolimits command.
+
+! Undefined control sequence.
+<argument>  \argmax 
+                    \limits _{\boldsymbol {\tau }} \boldsymbol {M}(\vect {q}...
+l.858 \end{gather}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Limit controls must follow a math operator.
+<recently read> \limits 
+                        
+l.858 \end{gather}
+                  
+I'm ignoring this misplaced \limits or \nolimits command.
+
+
+Overfull \hbox (9.14674pt too wide) detected at line 930
+[] \OMS/cmsy/m/n/10 , \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 ^
+^@[]
+ []
+
+[8 <./figures/10_Posi_constr_jerk_acc_comp_complete_formula_100.pdf> <./figures
+/11_Posi_constr_jerk_acc_comp_complete_formula_3.pdf> <./figures/kuka_in_xde_VO
+ID.pdf>]
+! Double subscript.
+<argument> ... the real position : $q_{estimated}_
+                                                  {|k+1} \leq q_{real}_{|k+1...
+l.934 ...{estimated}_{|k+1} \leq q_{real}_{|k+1}$}
+                                                   of the actuator position ...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+<argument> ...$q_{estimated}_{|k+1} \leq q_{real}_
+                                                  {|k+1}$\@finalstrut \strut...
+l.934 ...{estimated}_{|k+1} \leq q_{real}_{|k+1}$}
+                                                   of the actuator position ...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Overfull \hbox (3.075pt too wide) detected at line 945
+[] \OMS/cmsy/m/n/10 , \OML/cmm/m/it/10 n[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 ^
+^@[]
+ []
+
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 968.
+
+! Double subscript.
+<argument>  -&(\frac {1}{3} \dddot {q}_m_
+                                         {|k} \delta t^3) n_5^4 + (\frac {2}...
+l.968 \end{split}
+                 
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+<argument> ...delta t - \frac {1}{3} \dddot {q}_m_
+                                                  {|k} \delta t^3) n_5^2 \\ ...
+l.968 \end{split}
+                 
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Overfull \hbox (24.5463pt too wide) in paragraph at lines 985--985
+[] 
+ []
+
+
+Overfull \hbox (73.39528pt too wide) in paragraph at lines 996--996
+[] 
+ []
+
+
+Overfull \hbox (17.56502pt too wide) in paragraph at lines 1005--1005
+[] 
+ []
+
+
+Overfull \hbox (25.92195pt too wide) in paragraph at lines 1015--1015
+[] 
+ []
+
+(./comp_constr2019.bbl [9])
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the US letter (8.5in X 11in) paper size.
+
+[10
+
+] (./comp_constr2019.aux) ) 
+Here is how much of TeX's memory you used:
+ 11043 strings out of 493848
+ 207325 string characters out of 1152823
+ 273395 words of memory out of 3000000
+ 14079 multiletter control sequences out of 15000+50000
+ 48183 words of font info for 111 fonts, out of 3000000 for 9000
+ 717 hyphenation exceptions out of 8191
+ 56i,21n,55p,1569b,301s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.en
+c}</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cmextra/cmbsy7.pfb></us
+r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/tex
+mf-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmmi6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi
+7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texm
+f-texlive/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-texlive/fonts/type1/public/am
+sfonts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr
+7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-
+texlive/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy9.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
+/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm5.pfb></usr/share/
+texmf-texlive/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-texlive/font
+s/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
+mbi8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/shar
+e/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
+Output written on comp_constr2019.pdf (10 pages, 1722785 bytes).
+PDF statistics:
+ 2361 PDF objects out of 2487 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+

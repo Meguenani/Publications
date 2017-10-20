@@ -1,0 +1,113 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{alami2006safe}
+R.~Alami, A.~Albu-Schaeffer, A.~Bicchi, R.~Bischoff, R.~Chatila, A.~De~Luca,
+  A.~De~Santis, G.~Giralt, J.~Guiochet, G.~Hirzinger, \emph{et~al.}, ``Safe and
+  dependable physical human-robot interaction in anthropic domains: State of
+  the art and challenges.''\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2006,
+  pp. 1--16.
+
+\bibitem{zinn2004}
+M.~Zinn, O.~Khatib, B.~Roth, and J.~K. Salisbury, ``Playing it safe
+  [human-friendly robots],'' \emph{Robotics \& Automation Magazine, IEEE},
+  vol.~11, no.~2, pp. 12--21, 2004.
+
+\bibitem{haddadin2012}
+S.~Haddadin, N.~Mansfeld, and A.~Albu-Sch{\"a}ffer, ``Rigid vs. elastic
+  actuation: Requirements \& performance,'' in \emph{Intelligent Robots and
+  Systems (IROS), 2012 IEEE/RSJ International Conference on}.\hskip 1em plus
+  0.5em minus 0.4em\relax IEEE, 2012, pp. 5097--5104.
+
+\bibitem{bischoff2010kuka}
+R.~Bischoff, J.~Kurth, G.~Schreiber, R.~Koeppe, A.~Albu-Sch{\"a}ffer, A.~Beyer,
+  O.~Eiberger, S.~Haddadin, A.~Stemmer, G.~Grunwald, \emph{et~al.}, ``The
+  kuka-dlr lightweight robot arm-a new reference platform for robotics research
+  and manufacturing,'' in \emph{41st International Symposium on Robotics},
+  2010, pp. 1--8.
+
+\bibitem{loughlin2007dlr}
+C.~Loughlin, A.~Albu-Sch{\"a}ffer, S.~Haddadin, C.~Ott, A.~Stemmer,
+  T.~Wimb{\"o}ck, and G.~Hirzinger, ``The dlr lightweight robot: design and
+  control concepts for robots in human environments,'' \emph{Industrial Robot},
+  vol.~34, no.~5, pp. 376--385, 2007.
+
+\bibitem{ISO15066PDF}
+ISO, ``robots and robotic devices - collaborative robots,'' International
+  Organization for Standardization, Geneva, CH, ISO, 2016.
+
+\bibitem{haddadin2008collision}
+S.~Haddadin, A.~Albu-Sch{\"a}ffer, A.~De~Luca, and G.~Hirzinger, ``Collision
+  detection and reaction: A contribution to safe physical human-robot
+  interaction,'' in \emph{IEEE/RSJ International Conference on Intelligent
+  Robots and Systems}, 2008, pp. 3356--3363.
+
+\bibitem{haddadin2012truly}
+S.~Haddadin, A.~Khoury, T.~Rokahr, S.~Parusel, R.~Burgkart, A.~Bicchi, and
+  A.~Albu-Sch{\"a}ffer, ``A truly safely moving robot has to know what injury
+  it may cause,'' in \emph{IEEE/RSJ International Conference on Intelligent
+  Robots and Systems}, 2012, pp. 5406--5413.
+
+\bibitem{schindlbeck2015unified}
+C.~Schindlbeck and S.~Haddadin, ``Unified passivity-based cartesian
+  force/impedance control for rigid and flexible joint robots via task-energy
+  tanks,'' in \emph{Robotics and Automation (ICRA), 2015 IEEE International
+  Conference on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2015, pp.
+  440--447.
+
+\bibitem{meguenani2015control}
+A.~Meguenani, V.~Padois, and P.~Bidaud, ``Control of robots sharing their
+  workspace with humans: an energetic approach to safety,'' in
+  \emph{Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International
+  Conference on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2015, pp.
+  4678--4684.
+
+\bibitem{meguenani2016energy}
+A.~Meguenani, V.~Padois, J.~Da~Silva, A.~Hoarau, and P.~Bidaud, ``Energy based
+  control for safe human-robot physical interaction,'' in \emph{International
+  Symposium on Experimental Robotics}.\hskip 1em plus 0.5em minus 0.4em\relax
+  Springer, 2016, pp. 809--818.
+
+\bibitem{boyd2004}
+S.~Boyd and L.~Vandenberghe, \emph{Convex optimization}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Cambridge university press, 2004.
+
+\bibitem{khatib1995inertial}
+O.~Khatib, ``Inertial properties in robotic manipulation: An object-level
+  framework,'' \emph{The International Journal of Robotics Research}, vol.~14,
+  no.~1, pp. 19--36, 1995.
+
+\bibitem{rtt-url}
+P.~Soetens, ``{RTT}: {R}eal-{T}ime {T}oolkit,''
+  \url{http://www.orocos.org/rtt}, Accessed: 2017.
+
+\bibitem{merlhiot2012}
+X.~Merlhiot, J.~Garrec, G.~Saupin, and C.~Andriot, ``The xde mechanical kernel:
+  efficient and robust simulation of multibody dynamics with intermittent
+  nonsmooth contacts,'' in \emph{International Conference on Multibody System
+  Dynamics}, Stuttgart, Germany, 2012.
+
+\bibitem{gurobi}
+\BIBentryALTinterwordspacing
+{Gurobi Optimization Inc.}, ``Gurobi optimizer reference manual,'' 2015.
+  [Online]. Available: \url{http://www.gurobi.com}
+\BIBentrySTDinterwordspacing
+
+\end{thebibliography}

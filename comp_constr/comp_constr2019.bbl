@@ -1,0 +1,100 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{katzschmann2013towards}
+R.~Katzschmann, T.~Kr{\"o}ger, T.~Asfour, and O.~Khatib, ``Towards online
+  trajectory generation considering robot dynamics and torque limits,'' in
+  \emph{2013 IEEE/RSJ International Conference on Intelligent Robots and
+  Systems}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2013, pp. 5644--5651.
+
+\bibitem{ngo2005passivity}
+K.~B. Ngo, R.~Mahony, \emph{et~al.}, ``Passivity-based control of robot
+  manipulators subject to constraints,'' in \emph{Proc. of the 2005 Australian
+  Conf. on Robotics and Automation}, 2005.
+
+\bibitem{ngo2006bounded}
+K.~B. Ngo and R.~Mahony, ``Bounded torque control for robot manipulators
+  subject to joint velocity constraints,'' in \emph{Proceedings 2006 IEEE
+  International Conference on Robotics and Automation, 2006. ICRA 2006.}\hskip
+  1em plus 0.5em minus 0.4em\relax IEEE, 2006, pp. 7--12.
+
+\bibitem{chen1994torque}
+T.-H. Chen, F.-T. Cheng, Y.-Y. Sun, and M.-H. Hung, ``Torque optimization
+  schemes for kinematically redundant manipulators,'' \emph{Journal of Robotic
+  Systems}, vol.~11, no.~4, pp. 257--269, 1994.
+
+\bibitem{ma2002time}
+S.~Ma and M.~Watanabe, ``Time-optimal control of kinematically redundant
+  manipulators with limit heat characteristics of actuators,'' \emph{Advanced
+  Robotics}, vol.~16, no.~8, pp. 735--749, 2002.
+
+\bibitem{park1998enhanced}
+K.~C. Park, P.~H. Chang, and S.~H. Kim, ``The enhanced compact qp method for
+  redundant manipulators using practical inequality constraints,'' in
+  \emph{Robotics and Automation, 1998. Proceedings. 1998 IEEE International
+  Conference on}, vol.~1.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 1998,
+  pp. 107--114.
+
+\bibitem{yoshikawa1985manipulability}
+T.~Yoshikawa, ``Manipulability of robotic mechanisms,'' \emph{The international
+  journal of Robotics Research}, vol.~4, no.~2, pp. 3--9, 1985.
+
+\bibitem{decre2009extending}
+W.~Decr{\'e}, R.~Smits, H.~Bruyninckx, and J.~De~Schutter, ``Extending itasc to
+  support inequality constraints and non-instantaneous task specification,'' in
+  \emph{Robotics and Automation, 2009. ICRA'09. IEEE International Conference
+  on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2009, pp. 964--971.
+
+\bibitem{rubrecht2010constraints}
+S.~Rubrecht, V.~Padois, P.~Bidaud, and M.~De~Broissia, ``Constraints compliant
+  control: constraints compatibility and the displaced configuration
+  approach,'' in \emph{Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ
+  International Conference on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
+  2010, pp. 677--684.
+
+\bibitem{lange2014predictive}
+F.~Lange and M.~Suppa, ``Predictive path-accurate scaling of a sensor-based
+  defined trajectory,'' in \emph{2014 IEEE International Conference on Robotics
+  and Automation (ICRA)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2014,
+  pp. 754--759.
+
+\bibitem{lange2015trajectory}
+------, ``Trajectory generation for immediate path-accurate jerk-limited
+  stopping of industrial robots,'' in \emph{2015 IEEE International Conference
+  on Robotics and Automation (ICRA)}.\hskip 1em plus 0.5em minus 0.4em\relax
+  IEEE, 2015, pp. 2021--2026.
+
+\bibitem{rtt-url}
+P.~Soetens, ``{RTT}: {R}eal-{T}ime {T}oolkit,''
+  \url{http://www.orocos.org/rtt}.
+
+\bibitem{merlhiot2012}
+X.~Merlhiot, J.~Garrec, G.~Saupin, and C.~Andriot, ``The xde mechanical kernel:
+  efficient and robust simulation of multibody dynamics with intermittent
+  nonsmooth contacts,'' in \emph{International Conference on Multibody System
+  Dynamics}, Stuttgart, Germany, 2012.
+
+\bibitem{gurobi}
+\BIBentryALTinterwordspacing
+{Gurobi Optimization Inc.}, ``Gurobi optimizer reference manual,'' 2015.
+  [Online]. Available: \url{http://www.gurobi.com}
+\BIBentrySTDinterwordspacing
+
+\end{thebibliography}

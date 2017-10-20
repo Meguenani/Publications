@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with matplotlib (http://matplotlib.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="548pt"
+   version="1.1"
+   viewBox="0 0 1064 548"
+   width="1064pt"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="x_x_dot454.svg">
+  <metadata
+     id="metadata3089">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview3087"
+     showgrid="false"
+     inkscape:zoom="1.241956"
+     inkscape:cx="676.00449"
+     inkscape:cy="369.32652"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3057"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="551.54933,425.94102"
+       id="guide5187" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style6">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+  </defs>
+  <g
+     id="figure_1">
+    <g
+       id="axes_6"
+       transform="translate(-172.8,-56)"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <g
+         id="legend_6"
+         style="stroke-linecap:butt;stroke-linejoin:round">
+        <g
+           id="line2d_343"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+        <g
+           id="line2d_345"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+        <g
+           id="text_135"
+           style="stroke-linecap:butt;stroke-linejoin:round">
+          <!-- $\dot{X}_{z}^{*}$ -->
+          <g
+             transform="matrix(0.12,0,0,-0.12,995.60421,345.27775)"
+             id="g3057"
+             style="stroke-linecap:butt;stroke-linejoin:round">
+            <g
+               id="g7987">
+              <g
+                 style="stroke-linecap:butt;stroke-linejoin:round"
+                 transform="matrix(8.3333333,0,0,-8.3333333,-4710.0375,4610.6448)"
+                 id="axes_4" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs3067">
+    <clipPath
+       id="pc05864014a">
+      <rect
+         height="171.103625"
+         width="195.070230469"
+         x="829.453980469"
+         y="36.48925"
+         id="rect3070" />
+    </clipPath>
+    <clipPath
+       id="p9a3e0e0147">
+      <rect
+         height="171.103625"
+         width="195.070230469"
+         x="135.624480469"
+         y="36.48925"
+         id="rect3073" />
+    </clipPath>
+    <clipPath
+       id="p7c3570e86b">
+      <rect
+         height="171.103625"
+         width="195.070230469"
+         x="482.539230469"
+         y="302.31775"
+         id="rect3076" />
+    </clipPath>
+    <clipPath
+       id="p3fa49e89a5">
+      <rect
+         height="171.103625"
+         width="195.070230469"
+         x="482.539230469"
+         y="36.48925"
+         id="rect3079" />
+    </clipPath>
+    <clipPath
+       id="p285405c889">
+      <rect
+         height="171.103625"
+         width="195.070230469"
+         x="135.624480469"
+         y="302.31775"
+         id="rect3082" />
+    </clipPath>
+    <clipPath
+       id="p3e370ba36f">
+      <rect
+         height="171.103625"
+         width="195.070230469"
+         x="829.453980469"
+         y="302.31775"
+         id="rect3085" />
+    </clipPath>
+  </defs>
+</svg>
